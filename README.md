@@ -1,1 +1,1 @@
-# expert
+# mnist testing
