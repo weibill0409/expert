@@ -1,1 +1,3 @@
-# mnist testing
+# mnist 
+* Dataset
+  * Download from www.di.ens.fr/~lelarge/MNIST.tar.gz
